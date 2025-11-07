@@ -79,6 +79,37 @@
         }
       }
     },
+    "/api/Users/update-email": {
+      "put": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateEmailDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateEmailDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateEmailDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Users/delete": {
       "delete": {
         "tags": [
@@ -190,11 +221,33 @@
         },
         "additionalProperties": false
       },
-      "UpdateUserDto": {
+      "UpdateEmailDto": {
         "required": [
           "email",
           "id",
-          "password",
+          "password"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "password": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateUserDto": {
+        "required": [
+          "id",
           "userName"
         ],
         "type": "object",
@@ -205,15 +258,6 @@
           },
           "userName": {
             "maxLength": 100,
-            "minLength": 1,
-            "type": "string"
-          },
-          "email": {
-            "minLength": 1,
-            "type": "string",
-            "format": "email"
-          },
-          "password": {
             "minLength": 1,
             "type": "string"
           }
