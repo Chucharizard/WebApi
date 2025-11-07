@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\models\\dtos\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|c:\\users\\usuario\\downloads\\webapi1\\analisis_proyecto.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:analisis_proyecto.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ANALISIS_PROYECTO.md",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\ANALISIS_PROYECTO.md",
+              "RelativeDocumentMoniker": "ANALISIS_PROYECTO.md",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\ANALISIS_PROYECTO.md",
+              "RelativeToolTip": "ANALISIS_PROYECTO.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-07T00:34:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\DTOs\\DeleteUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\DeleteUserDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\DTOs\\DeleteUserDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\DeleteUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:34:43.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:34:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:09:06.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:49:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:34:31.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:27:08.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:21:37.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:19:26.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:18:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\WebAPI1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:16:13.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
