@@ -11,5 +11,9 @@ namespace WebAPI1.Models
         public string Email { get; set; } = string.Empty;
         [Required]
         public string Password { get; set; } = string.Empty;
+
+        public ICollection<Rol> Roles { get; set; } = new List<Rol>();
     }
+
+
 }

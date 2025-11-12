@@ -58,22 +58,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebAPI1.Controllers.UsersController",
-    "Method": "UpdateEmail",
-    "RelativePath": "api/Users/update-email",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "WebAPI1.Models.DTOs.UpdateEmailDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "WebAPI1.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
